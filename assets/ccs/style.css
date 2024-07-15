@@ -1,0 +1,6 @@
+.carouselExampleIndicators {
+  display: flex;
+}
+.carouselExampleIndicators img {
+  width: 25;
+}
